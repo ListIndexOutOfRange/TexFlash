@@ -70,7 +70,6 @@ setuptools.setup(
 # >>> python setup.py sdist bdist_wheel
 
 # Resulting package should be inspected, checked, and tested with:
-# > tar tzf realpython-reader-1.0.0.tar.gz
 # > twine check dist/*
 # > twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
