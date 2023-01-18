@@ -5,7 +5,7 @@ import setuptools
 
 _here = pathlib.Path(__file__).resolve().parent
 
-name = "latex-to-flashcards"
+name = "texflash"
 alias = "texflash"
 
 # for simplicity we actually store the version in the __version__ attribute in the source
@@ -63,7 +63,9 @@ setuptools.setup(
     python_requires=python_requires,
     install_requires=install_requires,
     packages=setuptools.find_packages(exclude=["examples", "data"]),
+    entry_points={"console_scripts": ['texflash=texflash.cli:main']},
 )
+
 
 # _______________________________________________________________________________________________ #
 # Using this script:
