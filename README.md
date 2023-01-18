@@ -65,5 +65,5 @@ Sources are stored as pickle files on a hidden folder named `.data/`.
 **Note that newcommands are parsed so that equation using them will be rendered !** 
 
 
+[demo.webm](https://user-images.githubusercontent.com/49729757/213248066-690a1d8d-4141-4857-9327-a3241931d2cb.webm)
 
-![][Demo](./assets/demo.webm)
