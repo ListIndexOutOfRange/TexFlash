@@ -2,7 +2,7 @@
 
 A web app to parse flash cards from Latex file and learn. 
 
-> :warning: **This app is in alpha stage**: There are defintely many bugs. The code is not clean at all. Features are very limited.
+> :warning: **This app is in alpha stage**: There are definitely many bugs. The code is not clean at all. Features are very limited.
 
 
 <!-- ------------------------------------------------------------------------------------------ -->
