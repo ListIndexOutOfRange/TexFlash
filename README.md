@@ -44,10 +44,10 @@ TexFlash is intended to be extremely easy to use.
 
 Anywhere in a .tex file, you can add commented line with the following tags:
 
-- % <BCT>: Begin Card Title
-- % <ECT>: End Card Title
-- % <BCC>: Begin Card Content
-- % <ECC>: End Card Content
+- `% <BCT>`: Begin Card Title
+- `% <ECT>`: End Card Title
+- `% <BCC>`: Begin Card Content
+- `% <ECC>`: End Card Content
 
 
 ### 2. Use the app
@@ -62,7 +62,7 @@ Once the app is launched you can proceed as follows:
 
 Sources are stored as pickle files on a hidden folder named `.data/`.
 
-**Note that newcommands are parsed so that equation using them will be rendered ! ** 
+**Note that newcommands are parsed so that equation using them will be rendered !** 
 
 
 
