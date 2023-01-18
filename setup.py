@@ -5,8 +5,8 @@ import setuptools
 
 _here = pathlib.Path(__file__).resolve().parent
 
-name = "texflash"
-alias = "latex-to-flashcards"
+name = "latex-to-flashcards"
+alias = "texflash"
 
 # for simplicity we actually store the version in the __version__ attribute in the source
 with open(_here / name / "__init__.py") as f:
